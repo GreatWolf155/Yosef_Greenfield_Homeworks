@@ -77,6 +77,6 @@ while True:
         valid_voters.add(_id)
     votes.append(_id)
 valid_voters -= invalid_voters
-print(f"Valid Voters: {valid_voters}")
-print(f"Invalid Voters: {invalid_voters}")
+print(f"Valid Voters: {list(valid_voters)}")
+print(f"Invalid Voters: {list(invalid_voters)}")
 print(f"{len(votes)} votes were added.")
