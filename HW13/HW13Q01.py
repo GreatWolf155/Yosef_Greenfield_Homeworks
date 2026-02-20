@@ -19,7 +19,7 @@ Answer: |
 Answer: &
 
 {1, 2, 3, 4} ? {3, 4} = {1, 2}
-Answer: ^, -
+Answer: ^ or -
 
 {1, 2, 3} ? {3, 4} = {1, 2, 4}
 Answer: ^
