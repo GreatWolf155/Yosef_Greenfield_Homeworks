@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="669242ef-f69a-4ca7-8455-4a83e7d2ad33" name="Changes" comment="Homework 14 Completed">
-      <change afterPath="$PROJECT_DIR$/HW15/capital quiz game rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW15/capital quiz game.py" afterDir="false" />
+    <list default="true" id="669242ef-f69a-4ca7-8455-4a83e7d2ad33" name="Changes" comment="Homework 15 Completed">
+      <change afterPath="$PROJECT_DIR$/HW16/HW16Q01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW16/HW16Q02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW16/HW16Q03 Bonus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -247,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771974010818</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Homework 15 Completed">
+      <option name="closed" value="true" />
+      <created>1772912823241</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772912823241</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,6 +265,7 @@
     <MESSAGE value="Homework 12 Completed" />
     <MESSAGE value="Homework 13 Completed" />
     <MESSAGE value="Homework 14 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 14 Completed" />
+    <MESSAGE value="Homework 15 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 15 Completed" />
   </component>
 </project>
