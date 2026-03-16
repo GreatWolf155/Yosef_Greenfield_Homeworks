@@ -54,6 +54,7 @@ class BusinessCard:
 p1 = BusinessCard()
 p1.receive_business_card()
 card = p1.create_dict()
+print(card)
 print("\n--- Business Card ---")
 for key, value in card.items():
     print(f"{key.replace('_', ' ').replace(' t', ' T').capitalize()}: {value}")
