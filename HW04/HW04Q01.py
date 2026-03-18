@@ -12,11 +12,11 @@
 חשב והדפס את שטח המשולש
 """
 
-height = -1
-base = -1
-while height < 0:
+height = 0
+base = 0
+while height <= 0:
     height = int(input("Please input a triangle height: "))
-while base < 0:
+while base <= 0:
     base = int(input("Please input a triangle base: "))
 area = base * height / 2
 print(area)
