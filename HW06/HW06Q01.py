@@ -13,7 +13,7 @@
 """
 
 grade = int(input("Please input a grade: "))
-if 0 > grade or grade < 100:
+if 0 > grade or grade > 100:
     print("invalid")
 elif 80 <= grade <= 100:
     print("VERY GOOD")
