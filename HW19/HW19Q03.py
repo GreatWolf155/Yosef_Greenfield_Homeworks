@@ -44,6 +44,7 @@ First check for 3 matches, then for 2 matches
 """
 import random
 
+
 def receive_bet(current_cash) -> int:
     """
     player decides how much to bet
