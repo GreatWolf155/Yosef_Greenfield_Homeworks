@@ -1,0 +1,55 @@
+-- 1
+CREATE TABLE STUDENTS (
+	ID INT PRIMARY KEY,
+	NAME TEXT NOT NULL,
+	AGE,
+	CITY,
+	GRADE REAL NOT NULL
+);
+
+-- 2
+INSERT INTO STUDENTS (ID, NAME, AGE, CITY, GRADE)
+VALUES
+(1, 'Noa', 15, 'Tel Aviv', 92.5),
+(2, 'Liam', 16, 'Haifa', 88.0),
+(3, 'Maya', 15, 'Netanya', 95.0),
+(4, 'Omer', 17, 'Jerusalem', 81.5);
+
+-- 3, 1
+SELECT * FROM STUDENTS;
+
+-- 3, 2
+SELECT name, grade FROM STUDENTS;
+
+-- 3, 3
+SELECT * FROM STUDENTS
+WHERE grade > 90;
+
+-- 3, 4
+SELECT * FROM STUDENTS
+WHERE name like 'M%';
+
+-- 3, 5
+SELECT avg(grade) FROM STUDENTS;
+SELECT max(grade) FROM STUDENTS;
+SELECT min(grade) FROM STUDENTS;
+
+-- 3, 6
+SELECT name FROM STUDENTS
+WHERE grade > (SELECT avg(grade) FROM STUDENTS);
+
+-- 4
+UPDATE STUDENTS
+SET grade = 90
+WHERE name = 'Liam';
+
+-- 5
+DELETE FROM STUDENTS
+WHERE name like 'N%';
+
+-- 6
+DELETE FROM STUDENTS
+WHERE grade < 88;
+
+-- 7
+DROP TABLE STUDENTS;
