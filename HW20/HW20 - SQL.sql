@@ -49,7 +49,7 @@ WHERE name like 'N%';
 
 -- 6
 DELETE FROM STUDENTS
-WHERE grade < 88;
+WHERE grade = 88;
 
 -- 7
 DROP TABLE STUDENTS;
