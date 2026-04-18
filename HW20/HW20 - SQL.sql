@@ -35,7 +35,7 @@ SELECT max(grade) FROM STUDENTS;
 SELECT min(grade) FROM STUDENTS;
 
 -- 3, 6
-SELECT name FROM STUDENTS
+SELECT * FROM STUDENTS
 WHERE grade > (SELECT avg(grade) FROM STUDENTS);
 
 -- 4
@@ -45,7 +45,7 @@ WHERE name = 'Liam';
 
 -- 5
 DELETE FROM STUDENTS
-WHERE name like 'N%';
+WHERE city like 'N%';
 
 -- 6
 DELETE FROM STUDENTS
