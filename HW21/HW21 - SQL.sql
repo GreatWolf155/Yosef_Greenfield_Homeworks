@@ -46,7 +46,7 @@ WHERE display_name LIKE 'm%' AND contact_email LIKE 'm%';
 
 -- 3, 5
 SELECT * FROM workshop_roster
-WHERE completion_score > 85;
+WHERE completion_score < 85;
 
 -- Try one insert with duplicate contact_email and explain which constraint blocks it
 -- INSERT INTO workshop_roster
