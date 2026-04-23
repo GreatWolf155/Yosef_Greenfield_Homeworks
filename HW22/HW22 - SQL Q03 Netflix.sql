@@ -5,7 +5,8 @@ FROM netflix_movies_detailed_up_to_2025;
 -- 2
 SELECT DISTINCT "cast"
 FROM netflix_movies_detailed_up_to_2025
-WHERE genres LIKE '%Action%' AND "cast" IS NOT NULL
+WHERE genres LIKE '%Action%'
+    AND "cast" IS NOT NULL
     AND TRIM("cast") != ''
 LIMIT 20;
 
@@ -22,7 +23,8 @@ SELECT *
 FROM netflix_movies_detailed_up_to_2025
 WHERE release_year > 2015
     AND genres LIKE '%Action%'
-    AND type = 'Movie'ORDER BY rating DESC
+    AND type = 'Movie'
+ORDER BY rating DESC
 LIMIT 5;
 
 -- 5
