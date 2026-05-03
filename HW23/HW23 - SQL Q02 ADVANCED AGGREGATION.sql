@@ -76,8 +76,7 @@ SELECT
 	rep_name,
 	COALESCE(SUM(amount), 0) AS revenue
 FROM sales
-GROUP BY rep_name
-ORDER BY rep_name;
+GROUP BY rep_name;
 
 -- 2
 -- Show average amount per product, rounded to 2 decimal places, sorted highest first
