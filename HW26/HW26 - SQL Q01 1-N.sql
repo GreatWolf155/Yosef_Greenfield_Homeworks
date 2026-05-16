@@ -11,7 +11,7 @@ CREATE TABLE categories (
 -- Create a posts table: id PK AUTOINCREMENT, category_id FK (NOT NULL), title TEXT, views INTEGER DEFAULT 0. Use ON DELETE RESTRICT.
 CREATE TABLE posts (
 	id INTEGER PRIMARY KEY AUTOINCREMENT,
-	category_id NOT NULL,
+	category_id INTEGER NOT NULL,
 	title TEXT,
 	views INTEGER DEFAULT 0,
 	FOREIGN KEY (category_id) REFERENCES categories(id) ON DELETE RESTRICT
@@ -46,10 +46,10 @@ INNER JOIN categories c ON p.category_id = c.id;
 -- 5
 -- Query: count posts per category, show categories with 0 posts too (use LEFT JOIN + GROUP BY).
 SELECT
-	c.title,
-	COUNT(p.title) AS number_of_titles
-FROM posts p
-LEFT JOIN categories c ON p.category_id = c.id
+    c.title,
+    COUNT(p.id) AS number_of_titles
+FROM categories c
+LEFT JOIN posts p ON c.id = p.category_id
 GROUP BY c.id;
 
 -- 6
