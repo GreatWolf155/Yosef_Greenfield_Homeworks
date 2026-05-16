@@ -63,7 +63,7 @@ ALTER TABLE sales
 ADD COLUMN tax REAL DEFAULT 0;
 UPDATE sales
 SET tax = amount * 0.07
-WHERE amount;
+WHERE amount IS NOT NULL;
 
 -- 3
 -- Rename the sales table to sales_backup, then rename it back to sales
