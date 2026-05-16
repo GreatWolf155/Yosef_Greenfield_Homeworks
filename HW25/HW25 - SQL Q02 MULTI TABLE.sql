@@ -79,7 +79,7 @@ SELECT
 FROM orders o
 JOIN customers c ON o.customer_id = c.id
 JOIN products p ON o.product_id = p.id
-WHERE p.category LIKE 'electronics';
+WHERE p.category = 'Electronics';
 
 -- 3
 -- Find all customers and any orders they have placed — show NULL for customers with no orders
