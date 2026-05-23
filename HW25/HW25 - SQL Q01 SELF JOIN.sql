@@ -41,7 +41,7 @@ SELECT
   f1.flight_no	AS prev_flight
 FROM flights f2
 LEFT JOIN flights f1 ON f2.prev_flight_id = f1.id
-WHERE prev_flight = 'TK101';
+WHERE f1.flight_no = 'TK101';
 
 -- 3
 -- Count how many onward connections each flight has (how many flights list it as predecessor), sorted descending
