@@ -41,6 +41,7 @@ SELECT
   f1.flight_no	AS prev_flight
 FROM flights f2
 LEFT JOIN flights f1 ON f2.prev_flight_id = f1.id
+-- WHERE queries not to use aliases
 WHERE f1.flight_no = 'TK101';
 
 -- 3
