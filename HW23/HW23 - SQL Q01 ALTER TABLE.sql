@@ -52,7 +52,7 @@ DROP COLUMN tier;
 
 -- ALTERNATE ANSWER
 ALTER TABLE sales
-ADD COLUMN tier DEFAULT 'low';
+ADD COLUMN tier TEXT DEFAULT 'low';
 UPDATE sales
 SET tier = 'high'
 WHERE amount > 1000;

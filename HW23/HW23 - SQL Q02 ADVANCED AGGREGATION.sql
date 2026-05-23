@@ -92,8 +92,8 @@ ORDER BY avg_amount DESC;
 SELECT
 	rep_name,
 	COUNT(*) AS total_sales,
-	COUNT(CASE WHEN product = 'Phone' THEN TRUE END) AS phone_sales,
-	COUNT(CASE WHEN amount > 1000 THEN TRUE END) AS large_sales
+	COUNT(CASE WHEN product = 'Phone' THEN 1 END) AS phone_sales,
+	COUNT(CASE WHEN amount > 1000 THEN 1 END) AS large_sales
 FROM sales
 GROUP BY rep_name;
 
@@ -101,6 +101,13 @@ GROUP BY rep_name;
 -- Write the "Mistake 1" query (non-grouped column) — observe the result, then fix it
 
 -- Every column in SELECT must either be in GROUP BY or wrapped in an aggregate.
+/*
+-- sale_date not in GROUP BY
+SELECT rep_name, sale_date,
+       SUM(amount)
+FROM sales
+GROUP BY rep_name;
+*/
 -- SOLUTION 1 - Add sale_date to GROUP BY
 SELECT rep_name, sale_date,
 	SUM(amount)
