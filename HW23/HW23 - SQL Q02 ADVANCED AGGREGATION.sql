@@ -132,4 +132,3 @@ FROM sales
 GROUP BY rep_name
 HAVING COUNT(*) >= 2
 ORDER BY revenue DESC;
--- Did not understand what was being asked here
