@@ -79,7 +79,7 @@ SELECT * FROM books;
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV#
 search = run_query_select("SELECT * FROM books")
 for book in search:
-    print(book)
+    print(f'{book["title"]} — {book["name"]}')
 print()
 #ΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛΛ#
 
