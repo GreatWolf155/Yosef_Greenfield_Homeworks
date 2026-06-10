@@ -4,9 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="669242ef-f69a-4ca7-8455-4a83e7d2ad33" name="Changes" comment="Homework 19 Completed Plus pygame">
-      <change afterPath="$PROJECT_DIR$/HW20/stuff.py" afterDir="false" />
+    <list default="true" id="669242ef-f69a-4ca7-8455-4a83e7d2ad33" name="Changes" comment="more classworks completed">
+      <change afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW09/M02CW09 SQL Q01 Top Customers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW09/M02CW09 SQL Q02 Refund Analysis Case 1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW09/M02CW09 SQL Q03 Refund Analysis Case 2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW09/M02HW09 SQL in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW09/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW09/sql_in_python.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZZZ/play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZZZ/stuff.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW20/HW20 - SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW01/M02HW01 SQL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW21/HW21 - SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW02/M02HW02 SQL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW22/HW22 - SQL Q01.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW03/M02HW03 SQL Q01.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW22/HW22 - SQL Q02.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW03/M02HW03 SQL Q02.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW22/HW22 - SQL Q03 Netflix.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW03/M02HW03 SQL Q03 Netflix.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW23/CW23 - SQL Q01 INNER JOIN.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW04/M02CW04 SQL Q01 INNER JOIN.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW23/CW23 - SQL Q02 LEFT JOIN.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW04/M02CW04 SQL Q02 LEFT JOIN.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW23/CW23 - SQL Q04 FULL OUTER JOIN.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW04/M02CW04 SQL Q03 FULL OUTER JOIN.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW23/CW23 - SQL Q05 CROSS JOIN.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW04/M02CW04 SQL Q04 CROSS JOIN.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW23/HW23 - SQL Q01 ALTER TABLE.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW04/M02HW04 SQL Q01 ALTER TABLE.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW23/HW23 - SQL Q02 ADVANCED AGGREGATION.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW04/M02HW04 SQL Q02 ADVANCED AGGREGATION.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW24/HW24 - SQL FULL OUTER JOIN.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW05/M02HW05 SQL FULL OUTER JOIN.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW25/HW25 - SQL Q01 SELF JOIN.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW06/M02HW06 SQL Q01 SELF JOIN.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW25/HW25 - SQL Q02 MULTI TABLE.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW06/M02HW06 SQL Q02 MULTI TABLE.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW26/CW26 - SQL Q01 1-1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW07/M02CW07 SQL Q01 1-1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW26/CW26 - SQL Q02 1-1+.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW07/M02CW07 SQL Q02 1-1+.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW26/HW26 - SQL Q01 1-N.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW07/M02HW07 SQL Q01 1-N.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW26/HW26 - SQL Q02 N-M.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW07/M02HW07 SQL Q02 N-M.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW27/CW27 - SQL Q01 1NF.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW08/M02CW08 SQL Q01 1NF.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW27/HW27 - SQL Q01 2NF.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW08/M02HW08 SQL Q01 2NF.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW27/HW27 - SQL Q02 3NF.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW08/M02HW08 SQL Q02 3NF.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW27/HW27 - SQL Q03 Pizza Restaurant.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW08/M02HW08 SQL Q03 Pizza Restaurant.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW28/HW28 - SQL in Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW28/HW28 - SQL in Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW28/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW28/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01Q01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01 Python Basics Q01 Arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01Q02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01 Python Basics Q02 Boolean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01Q03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01 Python Basics Q03 If Else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01Q04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01 Python Basics Q04 If Elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01Q05 Bonus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW01/M01HW01 Python Basics Q05 Bonus While Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02Q01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02 Python Basics Q01 If Else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02Q02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02 Python Basics Q02 If Elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02Q03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02 Python Basics Q03 While Count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02Q04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02 Python Basics Q04 While Count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02Q05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW02/M01HW02 Python Basics Q05 Count Conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW03/M01HW03Q01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW03/M01HW03 Python Basics Q01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW03/M01HW03Q02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW03/M01HW03 Python Basics Q02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW03/M01HW03Q03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 01 - Python Basics/M01 HW03/M01HW03 Python Basics Q03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 02 - SQL/HW27/Pizza Palace.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/Module 02 - SQL/M02 HW08/Pizza Palace.PNG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +62,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -46,57 +92,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.HW04Q01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW04Q03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW04Q04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW04Q05 Bonus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW05Q04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW05Q05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW06Q02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW06Q03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW12Q01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW12Q02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW14Q01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW14Q02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW14Q03 Mini Math Game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW16Q02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW16Q03 Bonus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW17Q01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW17Q02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW17Q03 Bonus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW18Q01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW18Q02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW18Q03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW19Q01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW19Q02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW19Q03 pygame.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW19Q03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.capital quiz game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stuff.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yosef/PycharmProjects/PythonProject/Yosef_Greenfield_Homeworks/HW19&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.HW04Q01.executor": "Run",
+    "Python.HW04Q03.executor": "Run",
+    "Python.HW04Q04.executor": "Run",
+    "Python.HW04Q05 Bonus.executor": "Run",
+    "Python.HW05Q04.executor": "Run",
+    "Python.HW05Q05.executor": "Run",
+    "Python.HW06Q02.executor": "Run",
+    "Python.HW06Q03.executor": "Run",
+    "Python.HW12Q01.executor": "Run",
+    "Python.HW12Q02.executor": "Run",
+    "Python.HW14Q01.executor": "Run",
+    "Python.HW14Q02.executor": "Run",
+    "Python.HW14Q03 Mini Math Game.executor": "Run",
+    "Python.HW16Q02.executor": "Run",
+    "Python.HW16Q03 Bonus.executor": "Run",
+    "Python.HW17Q01.executor": "Run",
+    "Python.HW17Q02.executor": "Run",
+    "Python.HW17Q03 Bonus.executor": "Run",
+    "Python.HW18Q01.executor": "Run",
+    "Python.HW18Q02.executor": "Run",
+    "Python.HW18Q03.executor": "Run",
+    "Python.HW19Q01.executor": "Run",
+    "Python.HW19Q02.executor": "Run",
+    "Python.HW19Q03 pygame.executor": "Run",
+    "Python.HW19Q03.executor": "Run",
+    "Python.HW28 - SQL in Python.executor": "Run",
+    "Python.capital quiz game.executor": "Run",
+    "Python.stuff.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Yosef/PycharmProjects/PythonProject/Yosef_Greenfield_Homeworks/Module 02 - SQL",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW19" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\Module 02 - SQL" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\Module 03 - Python Libraries\M03 HW03" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\Module 03 - Python Libraries\M03 HW01" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW26" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW25" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW20" />
-      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW19" />
-      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW11" />
-      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW10" />
-      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW09" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\Module 02 - SQL" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\Module 01 - Python Basics" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW27" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\ZZZ" />
+      <recent name="C:\Users\Yosef\PycharmProjects\PythonProject\Yosef_Greenfield_Homeworks\HW24" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW12Q01">
+  <component name="RunManager">
     <configuration name="HW12Q01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Yosef_Greenfield_Homeworks" />
       <option name="ENV_FILES" value="" />
@@ -186,126 +238,6 @@
       <option name="presentableId" value="Default" />
       <updated>1771267682134</updated>
     </task>
-    <task id="LOCAL-00001" summary="All Homeworks so far">
-      <option name="closed" value="true" />
-      <created>1771267871916</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1771267871916</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Homework Questions Folderized">
-      <option name="closed" value="true" />
-      <created>1771270380847</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1771270380847</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Homework 12 Completed">
-      <option name="closed" value="true" />
-      <created>1771273304339</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1771273304339</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Homework 12 Completed">
-      <option name="closed" value="true" />
-      <created>1771277287031</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1771277287031</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Homework 13 Completed">
-      <option name="closed" value="true" />
-      <created>1771583264889</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1771583264889</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Homework 13 Completed">
-      <option name="closed" value="true" />
-      <created>1771583393581</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1771583393581</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Homework 13 Completed">
-      <option name="closed" value="true" />
-      <created>1771583409887</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1771583409887</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Homework 13 Completed">
-      <option name="closed" value="true" />
-      <created>1771583505930</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1771583505930</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Homework 13 Completed">
-      <option name="closed" value="true" />
-      <created>1771583549516</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1771583549516</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Homework 13 Completed">
-      <option name="closed" value="true" />
-      <created>1771584513491</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1771584513491</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Homework 14 Completed">
-      <option name="closed" value="true" />
-      <created>1771974010818</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1771974010818</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Homework 15 Completed">
-      <option name="closed" value="true" />
-      <created>1772912823241</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1772912823241</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Homework 16 Completed">
-      <option name="closed" value="true" />
-      <created>1773225696697</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1773225696697</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Homework 17 Completed">
-      <option name="closed" value="true" />
-      <created>1773568642145</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1773568642145</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Homework 17 Completed">
-      <option name="closed" value="true" />
-      <created>1773675872122</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1773675872122</updated>
-    </task>
     <task id="LOCAL-00016" summary="Homework 04 Completed">
       <option name="closed" value="true" />
       <created>1773682045523</created>
@@ -370,25 +302,373 @@
       <option name="project" value="LOCAL" />
       <updated>1774187971460</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="NEW folders">
+      <option name="closed" value="true" />
+      <created>1776187532960</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1776187532960</updated>
+    </task>
+    <task id="LOCAL-00025" summary="NEW folders">
+      <option name="closed" value="true" />
+      <created>1776187612677</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1776187612677</updated>
+    </task>
+    <task id="LOCAL-00026" summary="NEW folders">
+      <option name="closed" value="true" />
+      <created>1776187653583</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1776187653583</updated>
+    </task>
+    <task id="LOCAL-00027" summary="HW20 Complete">
+      <option name="closed" value="true" />
+      <created>1776187820174</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1776187820174</updated>
+    </task>
+    <task id="LOCAL-00028" summary="HW20 Complete">
+      <option name="closed" value="true" />
+      <created>1776188202747</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1776188202747</updated>
+    </task>
+    <task id="LOCAL-00029" summary="HW21 Complete">
+      <option name="closed" value="true" />
+      <created>1776586866039</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1776586866039</updated>
+    </task>
+    <task id="LOCAL-00030" summary="HW22 INITIAL COMMIT - WILL REVISIT Q3">
+      <option name="closed" value="true" />
+      <created>1776634817528</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1776634817528</updated>
+    </task>
+    <task id="LOCAL-00031" summary="HW21 Fixed">
+      <option name="closed" value="true" />
+      <created>1776714689239</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1776714689239</updated>
+    </task>
+    <task id="LOCAL-00032" summary="HW22 Completed">
+      <option name="closed" value="true" />
+      <created>1776715250710</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1776715250710</updated>
+    </task>
+    <task id="LOCAL-00033" summary="HW22 Q3 Updated">
+      <option name="closed" value="true" />
+      <created>1776954550159</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1776954550159</updated>
+    </task>
+    <task id="LOCAL-00034" summary="HW22 Q3 Updated">
+      <option name="closed" value="true" />
+      <created>1776954591083</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1776954591083</updated>
+    </task>
+    <task id="LOCAL-00035" summary="HW23 Submission">
+      <option name="closed" value="true" />
+      <created>1777812580951</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1777812580951</updated>
+    </task>
+    <task id="LOCAL-00036" summary="HW23 Submission">
+      <option name="closed" value="true" />
+      <created>1777823760747</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1777823760747</updated>
+    </task>
+    <task id="LOCAL-00037" summary="HW24 Submission">
+      <option name="closed" value="true" />
+      <created>1778057028762</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1778057028762</updated>
+    </task>
+    <task id="LOCAL-00038" summary="HW24 Submission">
+      <option name="closed" value="true" />
+      <created>1778057092123</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1778057092123</updated>
+    </task>
+    <task id="LOCAL-00039" summary="HW25 Submission">
+      <option name="closed" value="true" />
+      <created>1778409640378</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1778409640378</updated>
+    </task>
+    <task id="LOCAL-00040" summary="HW26 Submission">
+      <option name="closed" value="true" />
+      <created>1778681657856</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1778681657856</updated>
+    </task>
+    <task id="LOCAL-00041" summary="HW23 UPDATED">
+      <option name="closed" value="true" />
+      <created>1778955395267</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1778955395267</updated>
+    </task>
+    <task id="LOCAL-00042" summary="HW25 UPDATED">
+      <option name="closed" value="true" />
+      <created>1778955729012</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1778955729012</updated>
+    </task>
+    <task id="LOCAL-00043" summary="HW26 UPDATED">
+      <option name="closed" value="true" />
+      <created>1778956082050</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1778956082050</updated>
+    </task>
+    <task id="LOCAL-00044" summary="HW27 Q2 completed">
+      <option name="closed" value="true" />
+      <created>1779220693706</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1779220693706</updated>
+    </task>
+    <task id="LOCAL-00045" summary="HW27 completed">
+      <option name="closed" value="true" />
+      <created>1779280461140</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1779280461141</updated>
+    </task>
+    <task id="LOCAL-00046" summary="HW27 completed">
+      <option name="closed" value="true" />
+      <created>1779280733106</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1779280733106</updated>
+    </task>
+    <task id="LOCAL-00047" summary="HW23 updated">
+      <option name="closed" value="true" />
+      <created>1779561836749</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1779561836749</updated>
+    </task>
+    <task id="LOCAL-00048" summary="HW23 updated">
+      <option name="closed" value="true" />
+      <created>1779561853958</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1779561853958</updated>
+    </task>
+    <task id="LOCAL-00049" summary="HW25 updated">
+      <option name="closed" value="true" />
+      <created>1779562317105</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1779562317105</updated>
+    </task>
+    <task id="LOCAL-00050" summary="HW25 updated">
+      <option name="closed" value="true" />
+      <created>1779562364423</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1779562364424</updated>
+    </task>
+    <task id="LOCAL-00051" summary="CLASS WORK 23 ADDED">
+      <option name="closed" value="true" />
+      <created>1779562872804</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1779562872804</updated>
+    </task>
+    <task id="LOCAL-00052" summary="CLASS WORK 26 ADDED">
+      <option name="closed" value="true" />
+      <created>1779613223272</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1779613223272</updated>
+    </task>
+    <task id="LOCAL-00053" summary="CLASS WORK 27 ADDED">
+      <option name="closed" value="true" />
+      <created>1779613233133</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1779613233133</updated>
+    </task>
+    <task id="LOCAL-00054" summary="HW28 Initialized">
+      <option name="closed" value="true" />
+      <created>1779613955846</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1779613955846</updated>
+    </task>
+    <task id="LOCAL-00055" summary="HW28 Completed">
+      <option name="closed" value="true" />
+      <created>1779646325656</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1779646325656</updated>
+    </task>
+    <task id="LOCAL-00056" summary="small updates and top customers question added">
+      <option name="closed" value="true" />
+      <created>1780177891082</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1780177891082</updated>
+    </task>
+    <task id="LOCAL-00057" summary="refund analysis added">
+      <option name="closed" value="true" />
+      <created>1780179410802</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1780179410802</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Reorganized">
+      <option name="closed" value="true" />
+      <created>1780519201708</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1780519201708</updated>
+    </task>
+    <task id="LOCAL-00059" summary="M03HW01 Completed">
+      <option name="closed" value="true" />
+      <created>1780841935422</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1780841935422</updated>
+    </task>
+    <task id="LOCAL-00060" summary="M03HW02 Completed">
+      <option name="closed" value="true" />
+      <created>1781027709039</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1781027709040</updated>
+    </task>
+    <task id="LOCAL-00061" summary="homeworks renamed">
+      <option name="closed" value="true" />
+      <created>1781028509922</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1781028509922</updated>
+    </task>
+    <task id="LOCAL-00062" summary="classworks completed">
+      <option name="closed" value="true" />
+      <created>1781034691005</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1781034691005</updated>
+    </task>
+    <task id="LOCAL-00063" summary="more classworks completed">
+      <option name="closed" value="true" />
+      <created>1781045437392</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1781045437392</updated>
+    </task>
+    <task id="LOCAL-00064" summary="more classworks completed">
+      <option name="closed" value="true" />
+      <created>1781045504797</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1781045504798</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="All Homeworks so far" />
-    <MESSAGE value="Homework Questions Folderized" />
-    <MESSAGE value="Homework 12 Completed" />
-    <MESSAGE value="Homework 13 Completed" />
-    <MESSAGE value="Homework 14 Completed" />
-    <MESSAGE value="Homework 15 Completed" />
-    <MESSAGE value="Homework 16 Completed" />
-    <MESSAGE value="Homework 17 Completed" />
-    <MESSAGE value="Homework 04 Completed" />
-    <MESSAGE value="Homework 05 Completed" />
-    <MESSAGE value="Homework 06 Completed" />
-    <MESSAGE value="Homework 18 Completed" />
-    <MESSAGE value="Homework 6 Fixed" />
-    <MESSAGE value="Homework 19 Completed" />
-    <MESSAGE value="Homework 19 Completed Plus pygame" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 19 Completed Plus pygame" />
+    <MESSAGE value="HW22 Q3 Updated" />
+    <MESSAGE value="HW23 Submission" />
+    <MESSAGE value="HW24 Submission" />
+    <MESSAGE value="HW25 Submission" />
+    <MESSAGE value="HW26 Submission" />
+    <MESSAGE value="HW23 UPDATED" />
+    <MESSAGE value="HW25 UPDATED" />
+    <MESSAGE value="HW26 UPDATED" />
+    <MESSAGE value="HW27 Q2 completed" />
+    <MESSAGE value="HW27 completed" />
+    <MESSAGE value="HW23 updated" />
+    <MESSAGE value="HW25 updated" />
+    <MESSAGE value="CLASS WORK 23 ADDED" />
+    <MESSAGE value="CLASS WORK 26 ADDED" />
+    <MESSAGE value="CLASS WORK 27 ADDED" />
+    <MESSAGE value="HW28 Initialized" />
+    <MESSAGE value="HW28 Completed" />
+    <MESSAGE value="small updates and top customers question added" />
+    <MESSAGE value="refund analysis added" />
+    <MESSAGE value="Reorganized" />
+    <MESSAGE value="M03HW01 Completed" />
+    <MESSAGE value="M03HW02 Completed" />
+    <MESSAGE value="homeworks renamed" />
+    <MESSAGE value="classworks completed" />
+    <MESSAGE value="more classworks completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="more classworks completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Module 01 - Python Basics/M01 HW16/M01HW16Q03 pygame.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
